@@ -25,3 +25,9 @@ console.log(multiplyNumber(2,2));
 console.log(divide(4,2));
 
 console.log(add(5,5));
+
+const mathSin = (number) => {
+    return Math.sin(number);
+}
+
+console.log("Hasil dari perhitungan matematika sin : ", mathSin(10));
