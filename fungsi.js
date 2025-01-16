@@ -23,3 +23,5 @@ console.log(sub(4,2));
 console.log(multiplyNumber(2,2));
 
 console.log(divide(4,2));
+
+console.log(add(5,5));
